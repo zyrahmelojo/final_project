@@ -1,11 +1,3 @@
-# Python Object-Oriented Programming (OOP) Projects Final Project
-
-This repository contains a collection of Python projects that demonstrate the principles of Object-Oriented Programming (OOP). Each project is designed to showcase various aspects of OOP and can be used as educational resources for learning OOP in Python.
-
-## Overview
-
-Object-Oriented Programming is a fundamental paradigm in software development. This repository provides a hands-on approach to OOP by implementing projects that cover a range of OOP concepts and techniques. Whether you are a beginner looking to learn OOP or an experienced developer wanting to reinforce your OOP skills, you'll find something valuable in these projects.
-
 ## Project List
 
 1. **Class Inheritance**: An example of creating and using class inheritance in Python.
@@ -22,9 +14,7 @@ Object-Oriented Programming is a fundamental paradigm in software development. T
 
 Each project includes detailed documentation and code explanations to aid your understanding.
 
-## Getting Started
-
-To get started with the projects, clone this repository to your local machine:
+## Source of this program
 
 ```bash
 git clone https://github.com/pxxthik/Python-OOP-Projects.git
